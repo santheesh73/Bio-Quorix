@@ -110,7 +110,7 @@ Created with ❤️ by the Quorix Engineering Team.
 
 <br>
 
-<sub>Developed for the Education purpose • Continuous Learning</sub><br>
+<sub>Developed for the Educational purpose</sub><br>
 <sub>Crafted with care by <a href="https://github.com/santheesh73"><b>Santheesh S</b></a></sub>
 
 </div>
